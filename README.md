@@ -1,4 +1,4 @@
-# .-Crypto-Pump-And-Dump-Analyzer
+# Crypto-Pump-And-Dump-Analyzer
 
 Crypto-Pump-And-Dump-Analyzer
 Overview
