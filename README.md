@@ -24,7 +24,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/Crypto-Pump-And-Dump-Tracker.git
+git clone https://github.com/gitdhirajsv/.-Crypto-Pump-And-Dump-Analyzer.git
 
 
 2. Install required dependencies:
